@@ -218,7 +218,7 @@ h2 {
 .prev_header {
   background:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/bg_2.jpg");
+    url("../Images/bg_2.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -226,7 +226,7 @@ h2 {
 .next_header {
   background:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/bg_1.jpg");
+    url("../Images/bg_1.jpg");
   background-position: center;
   background-size: cover;
 }
