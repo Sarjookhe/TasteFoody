@@ -33,7 +33,7 @@ h2 {
 .header {
   background:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/bg_1.jpg");
+    url("../Images/bg_1.jpg");
   background-position: center;
   background-size: cover;
   position: relative;
@@ -466,7 +466,7 @@ h2 {
 .customer_testimonial {
   background:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../images/bg_5.jpg");
+    url("../Images/bg_5.jpg");
   background-size: cover;
   background-position: center;
   min-height: 100vh;
