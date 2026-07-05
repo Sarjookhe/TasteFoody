@@ -33,7 +33,7 @@ h2 {
 .header {
   background:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../Images/bg_1.jpg");
+    url("../images/bg_1.jpg");
   background-position: center;
   background-size: cover;
   position: relative;
@@ -218,7 +218,7 @@ h2 {
 .prev_header {
   background:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../Images/bg_2.jpg");
+    url("../images/bg_2.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -226,14 +226,14 @@ h2 {
 .next_header {
   background:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../Images/bg_1.jpg");
+    url("../images/bg_1.jpg");
   background-position: center;
   background-size: cover;
 }
 
 /*About*/
 .about {
-  background-image: url(../Images/about.jpg);
+  background-image: url(../images/about.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
@@ -333,7 +333,7 @@ h2 {
   padding: 8em 0;
   background:
     linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.3)),
-    url("../Images/bg_3.jpg");
+    url("../images/bg_3.jpg");
   background-size: cover;
   background-position: center;
   font-family: "Poppins", sans-serif;
@@ -466,7 +466,7 @@ h2 {
 .customer_testimonial {
   background:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../Images/bg_5.jpg");
+    url("../images/bg_5.jpg");
   background-size: cover;
   background-position: center;
   min-height: 100vh;
@@ -838,7 +838,7 @@ h2 {
   }
 
   .about_content {
-    background-image: url(../Images/about.jpg);
+    background-image: url(../images/about.jpg);
     background-position: right;
     background-size: contain;
     background-repeat: no-repeat;
@@ -1026,7 +1026,7 @@ h2 {
   }
 
   .about_content {
-    background-image: url(../Images/about.jpg);
+    background-image: url(../images/about.jpg);
     background-position: right;
     background-size: contain;
     background-repeat: no-repeat;
